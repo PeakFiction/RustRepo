@@ -53,5 +53,13 @@ In this milestone, I simulated slow responses in our web server to observe the i
 
 5. **Scalability and Robustness**: The introduction of multithreading enhances the scalability and robustness of our server, enabling it to handle increased loads and concurrent requests more effectively. This lays a solid foundation for building high-performance web applications in Rust.
 
+![image](https://github.com/PeakFiction/RustRepo/assets/112671939/4ea76dee-fb74-4f9a-928f-25c8f66b5942)
+
+![image](https://github.com/PeakFiction/RustRepo/assets/112671939/bf2acaaa-5b02-4445-a012-2b315dd7f856)
+
+![image](https://github.com/PeakFiction/RustRepo/assets/112671939/ef17b6b5-1e1c-497d-9d47-26d32b8d17e9)
+
+![image](https://github.com/PeakFiction/RustRepo/assets/112671939/4b78c453-d285-426b-b56a-7f7c50a123f6)
+
 
 ###
